@@ -1,0 +1,20 @@
+/* Self-hosted variable Cyrillic fonts for Maveno concept previews.
+   Subset (Cyrillic + Cyrillic Ext + Latin + punctuation, wght axis kept).
+   Sources, versions and OFL 1.1 obligations: docs/FONT_LICENSES.md.
+   License texts: /licenses/OFL-Unbounded.txt, /licenses/OFL-Onest.txt. */
+
+@font-face {
+  font-family: "Unbounded";
+  src: url("./unbounded-variable.woff2") format("woff2");
+  font-weight: 200 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("./onest-variable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}

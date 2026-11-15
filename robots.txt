@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maveno.ru/sitemap.xml
